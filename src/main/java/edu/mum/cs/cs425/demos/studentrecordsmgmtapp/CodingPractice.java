@@ -1,4 +1,4 @@
-package edu.mum.cs.cs425.demos.studentrecordsmgmtapp.model;
+package edu.mum.cs.cs425.demos.studentrecordsmgmtapp;
 
 public class CodingPractice {
 

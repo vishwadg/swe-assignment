@@ -1,15 +1,12 @@
 package edu.mum.cs.cs425.demos.studentrecordsmgmtapp;
 
-import edu.mum.cs.cs425.demos.studentrecordsmgmtapp.model.CodingPractice;
 import edu.mum.cs.cs425.demos.studentrecordsmgmtapp.model.Student;
 
-import java.time.Instant;
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.Date;
 
 public class MainMyStudentRecordsMgmtApp {
     public static void main(String[] args) {
